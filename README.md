@@ -1,0 +1,2 @@
+# AI-Powered-PDF-Knowledge-Assistant-Using-Goggle-PALM
+Project Overview  DocuQuery is a cloud-based application that utilizes artificial intelligence (AI) and deep learning techniques to extract relevant information from PDF documents, specifically price lists. The tool aims to streamline the process of comparing prices across different suppliers, facilitating informed decision-making in procurement.  
